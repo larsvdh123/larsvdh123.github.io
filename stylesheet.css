@@ -1,0 +1,41 @@
+body {
+    background-image: url("images/afbb.webp");
+    color           : white;
+}
+
+.uitlijning-midden {
+    text-align: center;
+}
+
+.uitlijning-rechts {
+    text-align: right;
+}
+
+.topnav a {
+    float          : left;
+    color          : white;
+    text-align     : center;
+    padding        : 14px 16px;
+    text-decoration: none;
+    font-size      : 17px;
+}
+
+h1 {
+    text-align: center;
+}
+
+p {
+    font-size: larger;
+}
+
+footer {
+    text-align: center;
+    color     : white;
+}
+
+a,
+a:hover,
+a:focus,
+a:active {
+    color: inherit;
+}
